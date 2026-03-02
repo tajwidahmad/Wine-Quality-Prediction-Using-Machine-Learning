@@ -1,13 +1,13 @@
 # 🍷 Wine Quality Prediction Using Machine Learning
 (An AI Training Project Offered by the University)
 
-📌 Project Overview
+# 📌 Project Overview
 
 Wine quality evaluation is traditionally performed by human experts, which can be subjective, expensive, and time-consuming. This project aims to automate and assist the wine quality assessment process using Machine Learning techniques based on the chemical and physical properties of wine.
 
 The project was developed as part of an AI Training Program offered by the University, under the guidance of Sir Deepak T. Gurao, with the objective of gaining hands-on experience in data analysis, supervised learning, model evaluation, and comparison.
 
-🎯 Objectives
+# 🎯 Objectives
 
 To understand and apply Supervised Machine Learning concepts
 
@@ -19,7 +19,7 @@ To evaluate models using Accuracy, Precision, Recall, and F1-score
 
 To identify the best-performing model for wine quality prediction
 
-📂 Dataset Description
+# 📂 Dataset Description
 
 The dataset consists of laboratory-tested chemical properties of wine samples, such as:
 
@@ -35,7 +35,7 @@ Density and other physicochemical attributes
 
 Each wine sample is labeled with a quality score provided by human experts, which is later converted into a binary classification problem (Good / Bad quality).
 
-🧠 Machine Learning Approach
+# 🧠 Machine Learning Approach
 
 This project follows a Supervised Learning workflow, which includes:
 
@@ -49,7 +49,7 @@ Model training
 
 Model evaluation and comparison
 
-🤖 Algorithms Implemented
+# 🤖 Algorithms Implemented
 
 The following Machine Learning algorithms were implemented and evaluated:
 
@@ -65,7 +65,7 @@ Random Forest Classifier
 
 Each model was compared using consistent evaluation metrics to ensure a fair and reliable comparison.
 
-📊 Model Evaluation Metrics
+# 📊 Model Evaluation Metrics
 
 Models were evaluated using:
 
@@ -81,7 +81,7 @@ Confusion Matrix
 
 A detailed overall performance comparison was conducted, and Random Forest was selected as the final model due to its high accuracy and strong generalization ability.
 
-🏆 Final Result
+# 🏆 Final Result
 
 Best Model: Random Forest Classifier
 
@@ -93,7 +93,7 @@ Reduces overfitting through ensemble learning
 
 Achieves the best balance between precision and recall
 
-🧪 Tools & Technologies Used
+# 🧪 Tools & Technologies Used
 
 Python
 
@@ -107,12 +107,12 @@ Scikit-learn
 
 Jupyter Notebook
 
-👨‍🏫 Project Guide / Trainer
+# 👨‍🏫 Project Guide / Trainer
 
 Sir Deepak T. Gurao
 (AI Training Program – University)
 
-👥 Team Members
+# 👥 Team Members
 
 Tajwid Ahmad – Regd. No. 2401020174
 
@@ -126,7 +126,7 @@ Manish Kumar – Regd. No. 2401020554
 
 Trilochan Sahoo – Regd. No. 2401020178
 
-🚀 Conclusion
+# 🚀 Conclusion
 
 This project demonstrates how Machine Learning can be effectively applied to real-world quality control problems. It provides a strong foundation in data preprocessing, model building, evaluation, and comparison, making it suitable for academic submission as well as beginner-level industry exposure.
 
